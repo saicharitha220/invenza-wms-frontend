@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom colors */
+:root {
+  --logo-color: #610c1e;
+  --button-color: #2c4166;
+  --button-hover-color: #1f2b4a;
+  --mandatory-color: #330307;
+}
