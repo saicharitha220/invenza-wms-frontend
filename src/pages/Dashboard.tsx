@@ -143,10 +143,10 @@ const Dashboard: React.FC = () => {
             boxShadow: "0 0 10px rgba(0,0,0,0.15)",
           }}
         >
-          <h1 style={{ fontSize: "28px", marginBottom: "10px", color: COLORS.TEXT }}>
+          <h1 style={{ fontSize: "28px", marginBottom: "10px", color: COLORS.LOGO_TEXT }}>
             Welcome to the Invenza Dashboard!
           </h1>
-          <p style={{ fontSize: "16px", opacity: 0.9, color: COLORS.TEXT }}>
+          <p style={{ fontSize: "16px", opacity: 0.9, color: COLORS.LOGO_TEXT}}>
             Manage your products, customers, and reports from here.
           </p>
           <button
